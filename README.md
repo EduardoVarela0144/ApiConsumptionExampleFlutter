@@ -1,4 +1,4 @@
-# ApiConsumptionExampleFlutter
+# Api Consumption Example Flutter
 
 A new Flutter project.
 
